@@ -15,6 +15,12 @@ h2{
   line-height: 1.5;
 }
 
+h3{
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
 p {
   color: #8f8f8f;
 }
@@ -25,7 +31,7 @@ p {
 }
 
 .container-fluid {
-  padding: 3% 15% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* Navigation Bar */
@@ -119,4 +125,33 @@ p {
 
 .pricing-column{
   padding: 3% 2%;
+}
+
+/* call to action and footer */
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 3% 15% 7%;
+
+}
+
+#footer{
+  text-align: center;
+  margin-top: 7%;
+}
+
+.social-media-icon{
+  margin: 10px 10px;
+}
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }

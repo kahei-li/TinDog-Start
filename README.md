@@ -36,5 +36,7 @@ Adding bootstrap notes here:
   - card / with row arrangements for pricing and options
 - stacking
   - positioning and z-index to stack elements
-- fine tuning bootstrap grid / responsive designs (e.g large desktop screen to mobile screen)
-  -
+- fine tuning bootstrap grid / responsive designs / CSS breakpoints
+  -media query
+    - can change CSS base on set conditions
+    - @media <type> <feature>
