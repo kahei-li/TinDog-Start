@@ -40,3 +40,9 @@ Adding bootstrap notes here:
   -media query
     - can change CSS base on set conditions
     - @media <type> <feature>
+
+## Cleaning up CSS
+- css selectors
+  - hierarchy <parent> <child> {} e.g. #title .big-heading {}
+  - combined <style1><style2> {} e.g. h1.big-heading {}
+- colored sections
