@@ -1,4 +1,4 @@
-# TinDog Starting Files
+# TinDog Website - frontend html/css practice
 Forked from Londonappbrewery github.
 Adding bootstrap notes here:
 
